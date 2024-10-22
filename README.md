@@ -21,8 +21,8 @@ The Bank Management System is a console-based application developed in C++ to ma
 
 **Clone this repository:**
 ```
-git clone https://github.com/Prashant5456/BankingSystem
-cd BankingSystem
+git clone https://github.com/Pankaj6135/Banking_System
+cd Banking_System
 ```
 **Compile the program:**
 ```
