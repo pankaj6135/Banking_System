@@ -1,5 +1,7 @@
 # Bank Management System
 
+![Banking System](https://github.com/pankaj6135/Banking_System/blob/main/Banking%20System1.webp)
+
 ## Overview
 The Bank Management System is a console-based application developed in C++ to manage bank accounts. The system allows users to create accounts, deposit and withdraw funds, modify account details, and view account information. This project demonstrates the use of object-oriented programming concepts in C++ and file handling for data persistence.
 
